@@ -56,7 +56,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-jenkins-go https://username:password@jenkins.server $1</string>
+				<string>./alfred-jenkins-go https://{username}:{password}@{jenkins.server} $1</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
