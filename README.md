@@ -28,3 +28,6 @@ ln -sn $HOME/toy/go/src/github.com/guxingke/alfred-jenkins-go $HOME/Dropbox/Alfr
 3. go build
 4. ref USE#2
 
+## Showcase
+![1536822175.png](http://images.guxingke.com/1536822175.png)
+
