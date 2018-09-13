@@ -44,7 +44,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>ic</string>
+				<string>ci</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -56,15 +56,15 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-jenkins-go https://liang.lu:1024xm@ci-new.duitang.net $1</string>
+				<string>./alfred-jenkins-go https://username:password@jenkins.server $1</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>......</string>
+				<string></string>
 				<key>title</key>
-				<string>......</string>
+				<string>such as io</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -104,16 +104,16 @@
 		<key>111F5242-20C0-4117-A1B6-5D7B6EA0C24F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>570</integer>
+			<integer>520</integer>
 			<key>ypos</key>
-			<integer>120</integer>
+			<integer>50</integer>
 		</dict>
 		<key>7CC8CC48-7B67-4E6B-B7B6-BFF2875CAD99</key>
 		<dict>
 			<key>xpos</key>
-			<integer>130</integer>
+			<integer>150</integer>
 			<key>ypos</key>
-			<integer>120</integer>
+			<integer>50</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
